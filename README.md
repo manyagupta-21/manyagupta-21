@@ -20,7 +20,7 @@ I am particularly interested in building models that extract signal from noisy, 
 ## ⚙️ Technical Toolkit
 
 - **Languages:** Python, R, SQL  
-- **Libraries:** pandas, numpy, scikit-learn, statsmodels, XGBoost  
+- **Libraries:** pandas, numpy, scikit-learn, statsmodels
 - **Tools:** Excel, Jupyter, Git, LaTeX  
 - **Core Strengths:**  
   - Time Series Analysis  
